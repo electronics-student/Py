@@ -1,9 +1,11 @@
 #!/usr/bin/python3
 
 def main(msg):
-    // Adding new command
-    // Print the message
+    // No comments needed 
     print(msg)
+
+def secondary()
+	print("New fucntion") 
 
 
 main("Hello Yaz")

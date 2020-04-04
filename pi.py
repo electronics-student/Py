@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 def main(msg):
-    // No comments needed 
+    # No comments needed 
     print(msg)
 
 def secondary()
